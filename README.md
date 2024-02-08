@@ -4,21 +4,13 @@
 
 **Introduction**
 Hypothesis testing is a critical tool in determing what the value of a parameter could be.
-
 Basis of our testing has two attributes:
-  
 Null Hypothesis: H0
-
 Alternative Hypothesis: Ha
-
 The tests we have discussed in Notebook are:
-
 One Population Proportion
-
 Difference in Population Proportions
-
 Comparing means
-
 To calculate a test statistic , the equation is -
 
 (Best Estimate−Hypothesized Estimate)/ Standard Error of Estimate
