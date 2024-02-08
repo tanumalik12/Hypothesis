@@ -1,6 +1,6 @@
 # Hypothesis Testing
 
-![image](https://github.com/tanumalik12/Hypothesis/assets/128899444/5001c26a-815b-4516-bc6a-62ce694df76f)
+![image](https://github.com/tanumalik12/Hypothesis/assets/128899444/84a61e11-a577-45ad-902d-f6ddb4d1eab7)
 
 **Introduction**
 Hypothesis testing is a critical tool in determing what the value of a parameter could be.
