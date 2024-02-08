@@ -6,7 +6,7 @@
 Hypothesis testing is a critical tool in determing what the value of a parameter could be.
 
 Basis of our testing has two attributes:
-
+  
 Null Hypothesis: H0
 
 Alternative Hypothesis: Ha
